@@ -22,6 +22,9 @@
 				</ul>	
 			</nav>
 			<nav class="mobile right">
+				<div class="botao-menu-mobile">
+					<i class="fa fa-bars" aria-hidden="true"></i>
+				</div><!--botao-menu-mobile-->
 				<ul>
 					<li><a href="">Home</a></li>
 					<li><a href="">Sobre</a></li>
@@ -53,7 +56,7 @@
 		 	</div><!--w50-->
 		 	<div  class="w50 left">
 				<!--pegar imagem depois-->
-				<img src="images/Gui.jpg" width="320" height="340"/>
+				<img class="right" src="images/Gui.jpg"/>
 		 	</div><!--w50-->
 		 	<div class="clear"></div><!--clear-->
 	    </div><!--center-->
