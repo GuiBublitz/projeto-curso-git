@@ -65,21 +65,22 @@
 	<section class="especialidades">
 		<div class="center">
 			<h2 class="title">Especialidades</h2>
-			<div class="w33 left box-especialidade">
+			<div class="w33 left box-especialidades">
 				<h3><i class="fa fa-css3" aria-hidden="true"></i></h3>
-				<h3>CSS3</h3>
+				<h4>CSS3</h4>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis blandit vitae tortor suscipit viverra. Vestibulum diam nisl, pellentesque quis nisi ac, dapibus tincidunt turpis. Donec rhoncus massa eros, ut feugiat ante scelerisque et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet ornare nisl. Morbi eu orci a ex malesuada vestibulum in nec leo. Integer eget dolor elit. Nunc eget massa in lacus convallis dictum. Maecenas lectus augue, imperdiet in ante eu, mollis mattis turpis. Etiam at lectus sed quam dapibus malesuada a molestie tortor. Sed accumsan sodales lectus, vitae viverra nibh iaculis ut. Nam gravida risus nec tempor molestie. Nunc viverra dignissim sollicitudin. Praesent et commodo nibh, nec malesuada mi.</p>	
 			</div><!--box-especialidade-->
-			<div class="w33 left box-especialidade">
+			<div class="w33 left box-especialidades">
 				<h3><i class="fa fa-html5" aria-hidden="true"></i></h3>
-				<h3>HTML5</h3>
+				<h4>HTML5</h4>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis blandit vitae tortor suscipit viverra. Vestibulum diam nisl, pellentesque quis nisi ac, dapibus tincidunt turpis. Donec rhoncus massa eros, ut feugiat ante scelerisque et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet ornare nisl. Morbi eu orci a ex malesuada vestibulum in nec leo. Integer eget dolor elit. Nunc eget massa in lacus convallis dictum. Maecenas lectus augue, imperdiet in ante eu, mollis mattis turpis. Etiam at lectus sed quam dapibus malesuada a molestie tortor. Sed accumsan sodales lectus, vitae viverra nibh iaculis ut. Nam gravida risus nec tempor molestie. Nunc viverra dignissim sollicitudin. Praesent et commodo nibh, nec malesuada mi.</p>	
 			</div><!--box-especialidade-->
-			<div class="w33 left box-especialidade">
+			<div class="w33 left box-especialidades">
 				<h3><i class="fa fa-gg-circle" aria-hidden="true"></i></h3>
-				<h3>JavaScript</h3>
+				<h4>JavaScript</h4>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis blandit vitae tortor suscipit viverra. Vestibulum diam nisl, pellentesque quis nisi ac, dapibus tincidunt turpis. Donec rhoncus massa eros, ut feugiat ante scelerisque et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sit amet ornare nisl. Morbi eu orci a ex malesuada vestibulum in nec leo. Integer eget dolor elit. Nunc eget massa in lacus convallis dictum. Maecenas lectus augue, imperdiet in ante eu, mollis mattis turpis. Etiam at lectus sed quam dapibus malesuada a molestie tortor. Sed accumsan sodales lectus, vitae viverra nibh iaculis ut. Nam gravida risus nec tempor molestie. Nunc viverra dignissim sollicitudin. Praesent et commodo nibh, nec malesuada mi.</p>	
-			</div><!--box-especialidade-->
+			</div><!--box-especialidades-->
+			<div class="clear"></div><!--clear-->
 		</div><!--center-->	
 	</section><!--especialidades-->
 
