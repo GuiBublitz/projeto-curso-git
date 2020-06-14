@@ -175,6 +175,84 @@ section.especialidades h2.title{
 	margin-top:10px;
 }
 
+section.extras{
+	padding: 30px 0;
+	background: #404580;
+}
+
+.servicos-container,.depoimentos-container{
+	padding: 0 50px;
+}
+
+section.extras h2.title{
+	color: white;
+	font-size: 30px;
+	margin-bottom: 15px;
+}
+
+.depoimento-single{
+	padding: 15px 0;
+	border-bottom: 1px solid #5056A0;
+}
+
+p.depoimento-descricao{
+	font-size: 15px;
+	color: white;
+}
+
+p.nome-autor{
+	margin-top: 5px;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+}
+
+div.servicos ul{
+	margin: 20px 0;
+	list-style-position: inside; 
+}
+
+.servicos li{
+	margin-bottom: 15px;
+	font-size: 15px;
+	color: white;
+}
+
+footer{
+	background: #313462;
+	padding: 30px 0;
+}
+
+footer p{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-size: 17px;
+}
+
+@media screen and (max-width:768px){
+	img{
+		float: none !important;
+		display: block;
+		margin:0 auto;
+	}
+
+	.w50{
+		padding: 20px;
+		width: 100%;
+	}
+	
+	.w33{
+		width: 100%;
+		padding: 20px;
+	}
+
+	.box-especialidades{
+		margin: 0;
+		padding: 40px 20px;
+	}
+}
+
 @media screen and (max-width: 700px){
 	nav.desktop{
 		display:none;
@@ -218,28 +296,7 @@ section.especialidades h2.title{
 	}
 }
 
-@media screen and (max-width:768px){
-	img{
-		float: none !important;
-		display: block;
-		margin:0 auto;
-	}
 
-	.w50{
-		padding: 20px;
-		width: 100%;
-	}
-	
-	.w33{
-		width: 100%;
-		padding: 20px;
-	}
-
-	.box-especialidades{
-		margin: 0;
-		padding: 40px 20px;
-	}
-}
 
 
 

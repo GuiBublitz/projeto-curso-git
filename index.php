@@ -87,22 +87,22 @@
 	<section class="extras">
 
 		<div class="center">
-			<div class="w50 left">
-			 	<h2 class="title">Depoimentos</h2>
+			<div class="w50 left depoimentos-container">
+			 	<h2 class="title">Depoimentos dos nosso clientes</h2>
 			 	<div class="depoimento-single">
-			 		<p class="depoimento-descricao">Fusce porta aliquet lacus id congue. Integer rhoncus arcu et eleifend pretium. Sed id laoreet mauris. Suspendisse at justo non arcu auctor venenatis vitae ac tellus. Nulla faucibus est ac nibh cursus, at viverra justo porta. In placerat molestie scelerisque. Etiam sed lorem eu nisi molestie faucibus ac vel sem. Ut molestie dictum ex quis accumsan. Sed quis mollis est, a luctus magna. Integer ut porttitor sem, sit amet tempus lorem. Duis non lorem eleifend, tristique leo a, luctus sapien. Phasellus in tincidunt nisl, sit amet commodo elit. Quisque in porttitor orci. Nunc sagittis sem at aliquam sagittis.</p>
+			 		<p class="depoimento-descricao">"Fusce porta aliquet lacus id congue. Integer rhoncus arcu et eleifend pretium. Sed id laoreet mauris. Suspendisse at justo non arcu auctor venenatis vitae ac tellus. Nulla faucibus est ac nibh cursus, at viverra justo porta. In placerat molestie scelerisque. Etiam sed lorem eu nisi molestie faucibus ac vel sem. Ut molestie dictum ex quis accumsan. Sed quis mollis est, a luctus magna. Integer ut porttitor sem, sit amet tempus lorem. Duis non lorem eleifend, tristique leo a, luctus sapien. Phasellus in tincidunt nisl, sit amet commodo elit. Quisque in porttitor orci. Nunc sagittis sem at aliquam sagittis."</p>
 			 		<p class="nome-autor">Lorem Ipsum</p>
 			 	</div><!--depoimento-single-->
 			 	<div class="depoimento-single">
-			 		<p class="depoimento-descricao">Fusce porta aliquet lacus id congue. Integer rhoncus arcu et eleifend pretium. Sed id laoreet mauris. Suspendisse at justo non arcu auctor venenatis vitae ac tellus. Nulla faucibus est ac nibh cursus, at viverra justo porta. In placerat molestie scelerisque. Etiam sed lorem eu nisi molestie faucibus ac vel sem. Ut molestie dictum ex quis accumsan. Sed quis mollis est, a luctus magna. Integer ut porttitor sem, sit amet tempus lorem. Duis non lorem eleifend, tristique leo a, luctus sapien. Phasellus in tincidunt nisl, sit amet commodo elit. Quisque in porttitor orci. Nunc sagittis sem at aliquam sagittis.</p>
+			 		<p class="depoimento-descricao">"Fusce porta aliquet lacus id congue. Integer rhoncus arcu et eleifend pretium. Sed id laoreet mauris. Suspendisse at justo non arcu auctor venenatis vitae ac tellus. Nulla faucibus est ac nibh cursus, at viverra justo porta. In placerat molestie scelerisque. Etiam sed lorem eu nisi molestie faucibus ac vel sem. Ut molestie dictum ex quis accumsan. Sed quis mollis est, a luctus magna. Integer ut porttitor sem, sit amet tempus lorem. Duis non lorem eleifend, tristique leo a, luctus sapien. Phasellus in tincidunt nisl, sit amet commodo elit. Quisque in porttitor orci. Nunc sagittis sem at aliquam sagittis."</p>
 			 		<p class="nome-autor">Lorem Ipsum</p>
 			 	</div><!--depoimento-single-->
 			 	<div class="depoimento-single">
-			 		<p class="depoimento-descricao">Fusce porta aliquet lacus id congue. Integer rhoncus arcu et eleifend pretium. Sed id laoreet mauris. Suspendisse at justo non arcu auctor venenatis vitae ac tellus. Nulla faucibus est ac nibh cursus, at viverra justo porta. In placerat molestie scelerisque. Etiam sed lorem eu nisi molestie faucibus ac vel sem. Ut molestie dictum ex quis accumsan. Sed quis mollis est, a luctus magna. Integer ut porttitor sem, sit amet tempus lorem. Duis non lorem eleifend, tristique leo a, luctus sapien. Phasellus in tincidunt nisl, sit amet commodo elit. Quisque in porttitor orci. Nunc sagittis sem at aliquam sagittis.</p>
+			 		<p class="depoimento-descricao">"Fusce porta aliquet lacus id congue. Integer rhoncus arcu et eleifend pretium. Sed id laoreet mauris. Suspendisse at justo non arcu auctor venenatis vitae ac tellus. Nulla faucibus est ac nibh cursus, at viverra justo porta. In placerat molestie scelerisque. Etiam sed lorem eu nisi molestie faucibus ac vel sem. Ut molestie dictum ex quis accumsan. Sed quis mollis est, a luctus magna. Integer ut porttitor sem, sit amet tempus lorem. Duis non lorem eleifend, tristique leo a, luctus sapien. Phasellus in tincidunt nisl, sit amet commodo elit. Quisque in porttitor orci. Nunc sagittis sem at aliquam sagittis."</p>
 			 		<p class="nome-autor">Lorem Ipsum</p>
 			 	</div><!--depoimento-single-->
 		    </div><!--w50-->
-		    <div class="w50 left">
+		    <div class="w50 left servicos-container">
 			 	<h2 class="title">Serviços</h2>
 			 	<div class="servicos">
 			 		<ul>
