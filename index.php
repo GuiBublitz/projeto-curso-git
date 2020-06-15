@@ -12,7 +12,7 @@
 <body>
 	<header>
 		<div class="center">
-			<div class="logo left">Logomarca</div><!--logo-->
+			<div class="logo left"><a href="/">Logomarca</a></div><!--logo-->
 			<nav class="desktop right">
 				<ul>
 					<li><a href="">Home</a></li>
@@ -121,5 +121,8 @@
 			<p>Todos os direitos reservados</p>
 		</div><!--center-->
 	</footer>	
+	<script src="js/jquery.js"></script>
+	<script src="js/scripts.js"></script>
+
 </body>
 </html>
