@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Projeto 01</title>
-	<link rel="stylesheet" href="estilo/font-awesome.min.css">
+	<link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>estilo/font-awesome.min.css">
 	<link href="<?php echo INCLUDE_PATH; ?>estilo/style.css" rel="stylesheet"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0;">
 	<meta name="keywords" content="palavras-chave,do,meu,site">
@@ -11,19 +11,15 @@
 	<meta charset="utf-8" />
 </head>
 <body>
-
-	<?php
-		echo $_GET['url'];
-	?>
 	<header>
 		<div class="center">
 			<div class="logo left"><a href="/">Logomarca</a></div><!--logo-->
 			<nav class="desktop right">
 				<ul>
-					<li><a href="">Home</a> </li>
-					<li><a href="">Sobre</a></li>
-					<li><a href="">Serviços</a></li>
-					<li><a href="">Contato</a></li>
+					<li><a href="<?php echo INCLUDE_PATH; ?>">Home</a> </li>
+					<li><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
+					<li><a href="<?php echo INCLUDE_PATH; ?>servicos">Serviços</a></li>
+					<li><a href="<?php echo INCLUDE_PATH; ?>contato">Contato</a></li>
 				</ul>	
 			</nav>
 			<nav class="mobile right">
@@ -31,11 +27,11 @@
 					<i class="fa fa-bars" aria-hidden="true"></i>
 				</div><!--botao-menu-mobile-->
 				<ul>
-					<li><a href="">Home</a></li>
-					<li><a href="">Sobre</a></li>
-					<li><a href="">Serviços</a></li>
-					<li><a href="">Contato</a></li>
-				</ul>	
+					<li><a href="<?php echo INCLUDE_PATH; ?>">Home</a> </li>
+					<li><a href="<?php echo INCLUDE_PATH; ?>sobre">Sobre</a></li>
+					<li><a href="<?php echo INCLUDE_PATH; ?>servicos">Serviços</a></li>
+					<li><a href="<?php echo INCLUDE_PATH; ?>contato">Contato</a></li>
+				</ul>
 			</nav>
 			<div class="clear"></div><!--clear-->
 		</div><!--center-->
@@ -61,7 +57,7 @@
 		 	</div><!--w50-->
 		 	<div  class="w50 left">
 				<!--pegar imagem depois-->
-				<img class="right" src="images/Gui.jpg"/>
+				<img class="right" src="<?php echo INCLUDE_PATH; ?>images/Gui.jpg"/>
 		 	</div><!--w50-->
 		 	<div class="clear"></div><!--clear-->
 	    </div><!--center-->
@@ -126,8 +122,8 @@
 			<p>Todos os direitos reservados</p>
 		</div><!--center-->
 	</footer>	
-	<script src="js/jquery.js"></script>
-	<script src="js/scripts.js"></script>
+	<script src="<?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
+	<script src="<?php echo INCLUDE_PATH; ?>js/scripts.js"></script>
 
 </body>
 </html>
