@@ -1,15 +1,20 @@
+<?php include('config.php'); ?>
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Projeto 01</title>
 	<link rel="stylesheet" href="estilo/font-awesome.min.css">
-	<link href="estilo/style.css" rel="stylesheet"/>
+	<link href="<?php echo INCLUDE_PATH; ?>estilo/style.css" rel="stylesheet"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0;">
 	<meta name="keywords" content="palavras-chave,do,meu,site">
 	<meta name="description" content="Descrição do meu website">
 	<meta charset="utf-8" />
 </head>
 <body>
+
+	<?php
+		echo $_GET['url'];
+	?>
 	<header>
 		<div class="center">
 			<div class="logo left"><a href="/">Logomarca</a></div><!--logo-->
