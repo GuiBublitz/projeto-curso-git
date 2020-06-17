@@ -5,6 +5,7 @@
 }
  	
  	/**Boot CSS**/
+ 
  img{
  	width: 100%;
  	max-width: 400px;
@@ -237,6 +238,37 @@ footer p{
 	font-weight: bold;
 	text-align: center;
 	font-size: 17px;
+}
+
+footer.fixed{
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+
+section.erro_404 h2{
+	font-size:28px;
+	text-align: center;	
+	color:#444;
+	
+}
+
+section.erro_404 p{
+	margin-top: 6px;
+	font-size: 17px;
+	text-align: center;
+	color:#444;
+}
+
+section.erro_404 a{
+	color:#444;
+}
+
+.wraper_404{
+	width: 100%;
+	left: 0;
+	position:absolute;
+	top:50%;
 }
 
 @media screen and (max-width:768px){
