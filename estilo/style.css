@@ -5,7 +5,11 @@
 }
  	
  	/**Boot CSS**/
- 
+ html,body{
+ 	overflow-x: hidden;
+ 	height: 100%;
+ }
+
  img{
  	width: 100%;
  	max-width: 400px;
