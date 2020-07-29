@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Projeto 01 </title>
+	<title>Projeto 01</title>
 	<link rel="stylesheet" href="<?php echo INCLUDE_PATH; ?>estilo/font-awesome.min.css">
 	<link href="<?php echo INCLUDE_PATH; ?>estilo/style.css" rel="stylesheet"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0;">
